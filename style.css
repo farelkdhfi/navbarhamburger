@@ -92,7 +92,7 @@ nav ul li a {
 }
 
 /* Ukuran Mobile */
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 600px) {
     .menu-toggle {
         display: flex;
     }
