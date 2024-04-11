@@ -82,14 +82,6 @@ nav ul li a {
     transform: scale(0);
 }
 
-/* Responsive Breakpoint */
-
-/* Ukuran Tablet */
-@media screen and (max-width: 768px) {
-    nav ul {
-        width: 50%;
-    }
-}
 
 /* Ukuran Mobile */
 @media screen and (max-width: 600px) {
